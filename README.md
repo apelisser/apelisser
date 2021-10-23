@@ -1,7 +1,12 @@
-# 👋 Olá, Seja bem vindo
+## 👋 Olá, Seja bem vindo
 ### Meu nome é Abner, 
 #### Neste espaço você encontrará alguns projetos desenvolvidos em cursos/eventos que eu participei, além de projetos pessoais.
 
+<div>
+  <a href="https://github.com/abnerjp">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abnerjp&show_icons=true&theme=dark&include_all_commits=true&count_private=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnerjp&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 #### Aqui estão alguns pontos sobre mim:
 - Atualmente atuo como desenvolvedor na área de ingestão de dados, utilizando a ferramenta WebMethods;
