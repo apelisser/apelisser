@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnerjp&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-#### Aqui estão alguns pontos sobre mim:
+#### Alguns pontos sobre mim:
 - Atualmente atuo como desenvolvedor na área de ingestão de dados, utilizando a ferramenta WebMethods;
 - Em meu histórico profissional, já atuei como desenvolvedor frontend mobile utilizando o Framework React Native;
 - Estou cursando Análise e Desenvolvimento de Sistemas e Ciência de Dados, pela Fatec e Univesp respectivamente.
