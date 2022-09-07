@@ -8,18 +8,17 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnerjp&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-#### Alguns pontos sobre mim:
-- Atualmente atuo como desenvolvedor na área de ingestão de dados, utilizando a ferramenta WebMethods;
-- Em meu histórico profissional, já atuei como desenvolvedor frontend mobile utilizando o Framework React Native;
-- Estou cursando Análise e Desenvolvimento de Sistemas e Ciência de Dados, pela Fatec e Univesp respectivamente.
-- Recentemente iniciei um curso online, ministrado pela Alga Works, sobre desenvolvimento de APIs REST em Java, utilizando o framework Spring Boot;
+#### Sobre mim:
+- Atualmente atuo como desenvolvedor na área de integração de de serviços, utilizando a ferramenta WebMethods;
+- Em meu histórico profissional, já atuei como desenvolvedor front-end mobile utilizando React Native;
+- Estou cursando Análise e Desenvolvimento de Sistemas pela Fatec de Presidente Prudente.
 - [ ... ]
 
 <br  />
 
 
 
-###### Tenho grande interesse por algoritmos e linguagens de programação, e uso isso como combustível para continuar buscando conhecimento. 
+###### Tenho grande interesse por algoritmos e linguagens de programação, e uso isso como combustível para continuar a busca por conhecimento. 
 
 
 > ###### Esta apresentação está em fase de construção... Em breve estará finalizado!
